@@ -7,6 +7,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to fence!
 
+![scourgeofalloancruns](Maria.webp)
+-the scourge of all my oanc runs
+
 <!--
 **NicholasNotopradono/NicholasNotopradono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
