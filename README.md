@@ -1,9 +1,12 @@
 ## Hello! Welcome to my Profile!
 
--I'm Nick, a first year currently working on my Economics with a specialization in Data Science degree at The University of Chicago.
--A little about my page- I love to analyze data sets to see if I can find trends that nobody else has found, or cool things that are hidden away in said data sets.
--In my freetime, I fence, as well as play TF2, CS2, Minecraft, and Roblox.
--Please feel free to email nicholasnotopradono@gmail.com for any inquries.
+I'm Nick, a first year currently working on my Economics with a specialization in Data Science degree at The University of Chicago.
+  
+A little about my page- I love to analyze data sets to see if I can find trends that nobody else has found, or cool things that are hidden away in said data sets.
+  
+In my freetime, I fence, as well as play TF2, CS2, Minecraft, and Roblox.
+
+Please feel free to email nicholasnotopradono@gmail.com for any inquries.
 
 
 <!--
