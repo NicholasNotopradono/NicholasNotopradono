@@ -1,15 +1,10 @@
-## Hi there 👋
+## Hello! Welcome to my Profile!
 
-- 🔭 I’m currently working on: my Degree
-- 🌱 I’m currently learning: at the University of Chicago
-- 💬 Ask me about: Once a normal city
-- 📫 How to reach me: email for work related purposes- nicholasnotopradono@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to fence!
+I'n Nick, a first year currently working on my Economics with a specialization in Data Science degree at The University of Chicago.
+A little about my page- I love to analyze data sets to see if I can find trends that nobody else has found, or cool things that are hidden away in said data sets.
+In my freetime, I fence, as well as play TF2, CS2, Minecraft, and Roblox.
+Please feel free to email nicholasnotopradono@gmail.com for any inquries.
 
-![scourgeofalloancruns](Maria.webp)
-
--the scourge of all my oanc runs
 
 <!--
 **NicholasNotopradono/NicholasNotopradono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
